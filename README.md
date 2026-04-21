@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 GMBSells™ | Official Service Catalog</h1>
+  <h1> GMBSells | Official Service Catalog</h1>
   <p><b>Premium Digital Assets & GitHub Authority Solutions</b></p>
   <img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coverage-Global-blue?style=for-the-badge" />
