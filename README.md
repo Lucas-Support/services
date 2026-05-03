@@ -11,7 +11,7 @@
 
 We provide a comprehensive range of services designed to build instant authority and facilitate global digital operations.
 
-### 1️⃣ GitHub Authority & Growth 🐙
+### GitHub Authority & Growth 🐙
 We transform basic profiles into high-authority developer assets.
 * **Old Contribution Push:** Backdated commit activity (2-5 years) to build long-term trust.
 * **Repository Stars:** High-retention stars to boost project visibility and SEO.
