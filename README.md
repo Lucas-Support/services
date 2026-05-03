@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Our Core Services Portfolio
+## Our Core Services Portfolio
 
 We provide a comprehensive range of services designed to build instant authority and facilitate global digital operations.
 
